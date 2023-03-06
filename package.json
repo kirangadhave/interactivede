@@ -25,7 +25,7 @@
     "style": "style/index.css",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kirangadhave/interactivede.git"
+        "url": "https://github.com/kirangadhave/interactivede.git"
     },
     "scripts": {
         "build": "jlpm build:lib && jlpm build:labextension:dev",
