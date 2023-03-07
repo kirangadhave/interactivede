@@ -2,6 +2,9 @@
 
 echo $(python --version)
 
+git config --global user.email "kirangadhave2@gmail.com"
+git config --global user.name "Kiran Gadhave"
+
 . ${NVM_DIR}/nvm.sh
 npm install
 
