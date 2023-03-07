@@ -2,6 +2,12 @@
 
 <!-- <START NEW CHANGELOG ENTRY> -->
 
+## 0.0.2
+
+No merged PRs
+
+<!-- <END NEW CHANGELOG ENTRY> -->
+
 ## 0.0.1
 
 ([Full Changelog](https://github.com/kirangadhave/interactivede/compare/5ed90bee518fff9daf81df3fb927c143e0807e46...042266843526109ee99b2b7da6efdf28707a8ffa))
@@ -18,5 +24,3 @@
 ([GitHub contributors page for this release](https://github.com/kirangadhave/interactivede/graphs/contributors?from=2023-01-16&to=2023-03-06&type=c))
 
 [@github-actions](https://github.com/search?q=repo%3Akirangadhave%2Finteractivede+involves%3Agithub-actions+updated%3A2023-01-16..2023-03-06&type=Issues) | [@kirangadhave](https://github.com/search?q=repo%3Akirangadhave%2Finteractivede+involves%3Akirangadhave+updated%3A2023-01-16..2023-03-06&type=Issues)
-
-<!-- <END NEW CHANGELOG ENTRY> -->
