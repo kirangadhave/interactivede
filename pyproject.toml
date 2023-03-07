@@ -74,6 +74,7 @@ before-build-npm = [
     "jlpm build:prod",
 ]
 before-build-python = ["jlpm clean:all"]
+after-prep-release = ["echo Done"]
 
 [tool.check-wheel-contents]
 ignore = ["W002"]
