@@ -1,11 +1,15 @@
 #!/bin/sh
 
+echo $(python --version)
+
 . ${NVM_DIR}/nvm.sh
 npm install
 
 # pipx install poetry
 # poetry install
 # . $(poetry env info --path)/bin/activate
+pip install --upgrade pip
+
 pip install -r requirements.txt
 pipx install twine
 pipx install cookiecutter
